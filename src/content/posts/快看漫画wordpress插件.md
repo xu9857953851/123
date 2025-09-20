@@ -2,7 +2,7 @@
 title: 快看漫画WordPress插件
 published: 2025-09-20
 description: 'WordPress插件'
-image: './assets/6.jpg'
+image: '/assets/6.jpg'
 tags: [工具]
 category: ''
 draft: false 
