@@ -22,7 +22,7 @@ const SITE_LANG = "zh_CN"; // 语言代码，例如：'en', 'zh_CN', 'ja' 等。
 
 export const siteConfig: SiteConfig = {
 	title: "无敌冰博客",
-	subtitle: "wudibing",
+	subtitle: "资源分享",
 
 	lang: SITE_LANG,
 
@@ -491,3 +491,4 @@ export const widgetConfigs = {
 	fullscreenWallpaper: fullscreenWallpaperConfig,
 	pio: pioConfig, // 添加 pio 配置
 } as const;
+
