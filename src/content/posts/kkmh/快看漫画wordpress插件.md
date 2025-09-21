@@ -2,7 +2,7 @@
 title: 快看漫画WordPress插件
 published: 2025-09-20
 description: 'WordPress插件'
-image: 'public/images/cover'
+image: 'public/images/cover/kkmh.png'
 tags: [工具]
 category: ''
 draft: false 
