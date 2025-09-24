@@ -5,7 +5,7 @@ date: ''
 image: https://tncache1-f1.v3mh.com/image/2025-09-24/6rI0cxTR32.jpg,https://tncache1-f1.v3mh.com/image/2025-09-24/tENKynWH49.jpg
 tags: []
 title: 雷霆传奇docker架设
-updated: '2025-09-24T17:03:14.637+08:00'
+updated: '2025-09-24T17:16:02.695+08:00'
 ---
 本教程使用Centos 7.9演示搭建过程,建议使用Ubuntu 20.04、 Centos7.9和Debian10作为宿主机系统搭建。
 
